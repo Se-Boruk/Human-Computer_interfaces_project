@@ -1,4 +1,4 @@
-﻿# Engineering studies:
+# Engineering studies:
 # Human-Computer_interfaces 2022
 
 **License:** Apache 2.0  
@@ -16,6 +16,4 @@ Full report and code is available in this repo
 
 Algorithm block schematic:
 
-<img src="https://github.com/Se-Boruk/Human-Computer_interfaces_project/Algorithm_block_schematic.png?raw=true" alt="Schematic" width="700"/>
-
-
+<img src="https://github.com/Se-Boruk/Human-Computer_interfaces_project/blob/master/Algorithm_block_schematic.png?raw=true" alt="Schematic" width="700"/>
